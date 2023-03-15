@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+    color: mediumseagreen;
+    background-color: floralwhite;
+    border: outset;
+    border-bottom-style: solid;
+    border-color: darkseagreen;
+}
+li{
+    color: cadetblue;
+    font-family: fantasy;
+    font-size: 20px;
+    font-weight: bold; 
+    letter-spacing: 2px
+}
+p{
+    color: darkcyan;
+    font-family: cursive;
+    font-style: italic;
+    font-size: 15px;
+}
+#piesesito{
+    border-width: medium;
+    border-style: inset;
+    float: left;
+    color: forestgreen;
+    font-family: sans-serif;
+    font-style: italic;  
+}
+#fondito{
+    background-color: aliceblue;
+}

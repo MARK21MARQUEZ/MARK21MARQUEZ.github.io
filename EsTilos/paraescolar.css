@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    color: darkseagreen;
+    background-color: azure;
+    border-style: outset;
+    border-color: beige;
+    font-size: 47px;
+    font-family: fantasy;
+    letter-spacing: 10px;
+    word-spacing: 9px;
+    font-style: oblique;
+}
+li{
+    font-family: sans-serif;
+    font-style: italic;
+    color: forestgreen;
+    font-size: 25px;
+    font-weight: bold;
+}
+#salidita{
+    text-align: center;
+    color: darkcyan;
+    font-family: monospace;
+}
+#color{
+    background-color: aliceblue;
+}

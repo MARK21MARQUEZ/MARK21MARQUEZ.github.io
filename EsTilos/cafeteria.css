@@ -1,0 +1,19 @@
+#color{
+    background-color: azure;
+}
+h1{
+    font-family: fantasy;
+    font-size: 45px;
+    letter-spacing: 9px;
+    word-spacing: 10px;
+    color: cadetblue;
+    border-style: dotted;
+    border-color: black;
+    background-color: beige;
+    text-align: center;
+}
+h2{
+    color: mediumseagreen;
+    font-size: 35px;
+    
+}

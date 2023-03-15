@@ -1,0 +1,39 @@
+h2{
+    text-align: center;
+    font-family: Impact;
+    font-size: 35px;
+    word-spacing: 20px;
+    letter-spacing: 6px;
+    border-style: ridge;
+    border-color: forestgreen;
+    background-color: cadetblue;
+}
+h3{
+    text-align: center;
+    color: darkturquoise;
+    font-style: oblique;
+    font-family: monospace;
+    font-size: 20px;
+}
+#tablita{
+    text-align: center;   
+}
+#todito{
+    float: center;
+}
+#masito{
+    text-align: center;
+}
+p{
+    color: seagreen;
+    font-style: italic;
+    font-family: cursive;
+    font-size: 15px;
+    font-weight: bold;
+}
+#fondos{
+    background-color: aliceblue;
+}
+#entradita{
+    text-align: center;
+}
